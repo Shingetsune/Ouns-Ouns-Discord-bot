@@ -1,1 +1,1 @@
-worker: python ouns-ouns-boy.py
+worker: python bot.py
